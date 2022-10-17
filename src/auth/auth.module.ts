@@ -12,7 +12,7 @@ import { RefreshTokenStrategy } from './strategies/refreshToken.strategy';
     AuthService,
     JwtService,
     PrismaService,
-    // AccessTokenStrategy,
+    AccessTokenStrategy,
     RefreshTokenStrategy,
   ],
 })
